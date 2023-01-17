@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+}
+nav #logo {
+  width: 50px;
+}
+
+#greet {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 14px;
+  color: black;
+}/*# sourceMappingURL=style.css.map */
