@@ -1,4 +1,4 @@
-## Copyright 2022, RAO AKIF
+## Copyright 2022, Rao Akif
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this _*ProjectTitle*_ and associated documentation files, to deal in the _*ProjectTitle*_ without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the _*ProjectTitle*_, and to permit persons to whom the _*ProjectTitle*_ is furnished to do so, subject to the following conditions:
 
