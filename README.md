@@ -2,9 +2,6 @@
 
 > Project description goes here.
 
-![PROJECT IMAGE CURRENLTY HERE](https://user-images.githubusercontent.com/...PNG)
-
-
 ## Built With
 
 - HTML, CSS & JS
