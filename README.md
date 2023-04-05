@@ -1,10 +1,10 @@
-# Project Title
+# ProjectTitle
 
 > Project description goes here.
 
 ## Built With
 
-- HTML, CSS & JS
+- React, Docker, Netlify
 
 ## Live Demo
 
