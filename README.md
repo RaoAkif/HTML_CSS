@@ -1,4 +1,4 @@
-# ProjectTitle
+# Hello Docker
 
 > Project description goes here.
 
@@ -6,9 +6,20 @@
 
 - React, Docker, Netlify
 
+## To Get Started
+To build the docker image
+```
+docker build -t hellodocker:dev .
+```
+
+To create a container on PORT
+```
+docker run -it -p 3000:3000 hellodocker:dev
+```
+
 ## Live Demo
 
-[Live Demo Link](https://raoakif.github.io/ProjectTitle/)
+[Live Demo Link](https://raoakif.github.io/HelloDocker/)
 
 
 ## 👤 Author
