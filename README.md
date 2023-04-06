@@ -9,12 +9,12 @@
 ## To Get Started
 To build the docker image
 ```
-docker build -t hellodocker:dev .
+docker build -t hellodockervite:dev .
 ```
 
 To create a container on PORT
 ```
-docker run -it -p 3000:3000 hellodocker:dev
+docker run -it -p 5173:5173 hellodockervite:dev
 ```
 
 ## Live Demo
